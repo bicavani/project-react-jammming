@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fde606b553f703cc875647c09b3a2cc9",
+    "revision": "dfba86e4815801da1b66a1c0b0714641",
     "url": "/project-react-jammming/index.html"
   },
   {
-    "revision": "31faf53eb685440841c6",
+    "revision": "6e9a36c6ba8baabfe613",
     "url": "/project-react-jammming/static/css/main.8f0895df.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/project-react-jammming/static/js/2.b8a7688f.chunk.js"
   },
   {
-    "revision": "31faf53eb685440841c6",
-    "url": "/project-react-jammming/static/js/main.427813c8.chunk.js"
+    "revision": "6e9a36c6ba8baabfe613",
+    "url": "/project-react-jammming/static/js/main.82296d12.chunk.js"
   },
   {
     "revision": "e1c28b1fc0e16f829264",
