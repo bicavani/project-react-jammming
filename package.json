@@ -2,7 +2,7 @@
   "name": "project-jammming",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bicavani.github.io/project-react-jammming/",
+  "homepage": "https://bicavani.github.io/project-react-jammming",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
